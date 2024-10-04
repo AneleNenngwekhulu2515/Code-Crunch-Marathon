@@ -5,6 +5,8 @@ for i in range(5):
     user_number = input("enter your phone number: ")
 
     """TODO"""
+    users[user_name] = user_number
 
+    
 print(users)
 
